@@ -1,5 +1,5 @@
 # coronavirustccpuc
-Disponibilizo aqui um estudo suscinto referente à pandemia de COVID-19 Coronavírus, analisando a evolução da doença no Brasil em relação a outros países.
+Disponibilizo aqui um estudo sucinto referente à pandemia de COVID-19 Coronavírus, analisando a evolução da doença no Brasil em relação a outros países.
 
 Tal estudo será apresentado como Trabalho de Conclusão de Curso em especialização em Ciência de Dados e Big Data, oferecido pela PUC Minas.
 
